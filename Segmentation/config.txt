@@ -1,0 +1,1 @@
+Namespace(batch_size=22, iterations=100000, latent_hidden_n=512, lr=8e-05, model_checkpoint=None, model_name='model', n_classes=4, n_eval=1000, n_filters=32, print_it=250, val_num=6901, validate=1)
